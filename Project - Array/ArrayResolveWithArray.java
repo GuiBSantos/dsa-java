@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class ArrayResolveWithArray {
     public static void main(String[] args) {
+
         Scanner entrada = new Scanner(System.in);
         System.out.print("How many day`s temperature? ");
         int numDays = entrada.nextInt();
